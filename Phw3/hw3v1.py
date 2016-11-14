@@ -8,7 +8,9 @@ while word:
 
 for i in range(len(arr)):
     newword = arr[i]
-    part1 = newword[:2]
-    part2 = newword[3:]
-    newword = part1 + part2
-    print(newword[::-1])
+    newword = list(newword[::-1])
+    for j in range (len(newword)):
+        if (j+1)%3 == 0:
+            newword[j] = ''
+    newword = ''.join(newword)
+    print(newword)
