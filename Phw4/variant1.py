@@ -1,5 +1,5 @@
 word = input('Введите слово: ')
-
-for index, letter in enumerate(word):
+print(word)
+for index in range (len(word)):
     print(word[:-index])
     
