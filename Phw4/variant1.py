@@ -1,5 +1,5 @@
    
 word = input('Введите слово: ')
-word = word + ' '
-for index in range (len(word)):
+print(word)
+for index in range (1, len(word)):
     print(word[:-index])
