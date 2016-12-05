@@ -18,6 +18,7 @@ for i in range (len(table)):
     
     sumnumb += table[i]
 
-print(sumnumb/len(lines))
+sumnumb = sumnumb/len(lines)
+print(sumnumb)
             
     
