@@ -1,0 +1,15 @@
+<w lemma="nærri" type="lhfþve">næstu</w> - 1
+<w lemma="frekur" type="lvfovm">frekari</w> - 1
+<w lemma="tímabundinn" type="lhfþsf">tímabundnum</w> - 2
+<w lemma="tímabundinn" type="lkfþsf">tímabundnum</w> - 1
+<w lemma="laus" type="lvfosf">lausar</w> - 1
+<w lemma="frekur" type="lvfnvm">frekari</w> - 1
+<w lemma="íslenskur" type="lkfesf">íslenskra</w> - 1
+<w lemma="tímabundinn" type="lvfosf">tímabundnar</w> - 3
+<w lemma="einstakur" type="lhfþsf">einstökum</w> - 1
+<w lemma="fár" type="lvfnsf">fáar</w> - 1
+<w lemma="tímabundnur" type="lkfosf">tímabundna</w> - 2
+<w lemma="strangur" type="lvfovm">strangari</w> - 1
+<w lemma="gildandi" type="lhfeof">gildandi</w> - 1
+<w lemma="endurnýjaður" type="lkfnsf">endurnýjaðir</w> - 1
+<w lemma="tímabundinn" type="lvfnsf">tímabundnar</w> - 1
