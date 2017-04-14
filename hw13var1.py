@@ -15,7 +15,10 @@ def printnames():
     names = os.listdir('.')
     names_mentioned = []
     for i in names:
-        if re.search(reg_name, i):
+        if os.path.isdir(i):
+            names_mentioned.append(i)
+            print(i)
+        elif os.path.isfile(i) and re.search(reg_name, i):
             filename = re.search(reg_name, i).group(0).strip('.')
             if filename not in names_mentioned:
                 names_mentioned.append(filename)
